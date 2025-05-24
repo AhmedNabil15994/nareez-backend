@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="445" height="337" viewBox="0 0 445 337">
+  <defs>
+    <linearGradient id="linear-gradient" x1="0.5" y1="0.539" x2="0.5" y2="1" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#66048b" stop-opacity="0"/>
+      <stop offset="1" stop-color="#66048b"/>
+    </linearGradient>
+  </defs>
+  <rect id="NoPath_-_Copy_2_" data-name="NoPath - Copy (2)" width="445" height="337" rx="4" opacity="0.51" fill="url(#linear-gradient)"/>
+</svg>
